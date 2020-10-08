@@ -28,7 +28,7 @@ Your site should be preconfigured with a hosted page running with the same files
 https://{yoursitename}.hub.loginradius.com/auth.aspx
 
 ## Screenshot
-![screenshot](https://apidocs.lrcontent.com/images/red-theme-screen-cap_276925bfef226ac9fd8.51684952.jpg)
+[![Screenshot](https://apidocs.lrcontent.com/images/red-theme-screen-cap_276925bfef226ac9fd8.51684952.jpg)](https://apidocs.lrcontent.com/images/red-theme-screen-cap_276925bfef226ac9fd8.51684952.jpg)
 
 ## Author
 
